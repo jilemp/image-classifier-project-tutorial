@@ -1,5 +1,5 @@
-__pycache__
+__pycache__/
 .env
-.learn
-data\raw\test1
-data\raw\train
+.learn/
+data/raw/test1/
+data/raw/train/
