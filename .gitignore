@@ -2,4 +2,6 @@ __pycache__/
 .env
 .learn/
 data/raw/test1/
-data/raw/train/
+data/raw/train1/
+src/model.h5
+src/path/to/save/
