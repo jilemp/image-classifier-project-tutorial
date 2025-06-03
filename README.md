@@ -8,7 +8,7 @@ This repository contains an image classification project using a **Convolutional
 
 ```
 📦 Image-Classification-CNN/
-├── explore (2).ipynb         # Jupyter notebook with model training and evaluation
+├── explore.ipynb         # Jupyter notebook with model training and evaluation
 ├── README.md                 # Project overview and usage instructions
 ├── data/                     # Folder to store training and test image data
 ```
