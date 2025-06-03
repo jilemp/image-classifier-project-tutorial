@@ -8,7 +8,7 @@ Este repositorio contiene un proyecto de clasificación de imágenes utilizando 
 
 ```
 📦 Clasificacion-Imagenes-CNN/
-├── explore (2).ipynb         # Notebook con entrenamiento y evaluación del modelo
+├── explore.ipynb         # Notebook con entrenamiento y evaluación del modelo
 ├── README.md                 # Descripción general del proyecto e instrucciones
 ├── data/                     # Carpeta con las imágenes de entrenamiento y prueba
 ```
@@ -45,7 +45,7 @@ pip install tensorflow keras matplotlib numpy pandas scikit-learn
 ### Ejecutar el notebook
 
 ```bash
-jupyter notebook "explore (2).ipynb"
+jupyter notebook "explore.ipynb"
 ```
 
 Asegúrese de que la carpeta `data/` contenga subcarpetas estructuradas por clase de imagen.
